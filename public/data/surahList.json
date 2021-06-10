@@ -1,0 +1,1485 @@
+[
+    {
+        "id": "1",
+        "name": {
+            "id": "Al-Fatihah",
+            "en": "Al-Faatiha"
+        },
+        "verses": "7",
+        "arab": "الفاتحة",
+        "translation": {
+            "id": "Pembukaan",
+            "en": "The Opening"
+        }
+    },
+    {
+        "id": "2",
+        "name": {
+            "id": "Al-Baqarah",
+            "en": "Al-Baqara"
+        },
+        "verses": "286",
+        "arab": "البقرة",
+        "translation": {
+            "id": "Sapi",
+            "en": "The Cow"
+        }
+    },
+    {
+        "id": "3",
+        "name": {
+            "id": "Ali 'Imran",
+            "en": "Aal-i-Imraan"
+        },
+        "verses": "200",
+        "arab": "آل عمران",
+        "translation": {
+            "id": "Keluarga Imran",
+            "en": "The Family of Imraan"
+        }
+    },
+    {
+        "id": "4",
+        "name": {
+            "id": "An-Nisa'",
+            "en": "An-Nisaa"
+        },
+        "verses": "176",
+        "arab": "النساء",
+        "translation": {
+            "id": "Wanita",
+            "en": "The Women"
+        }
+    },
+    {
+        "id": "5",
+        "name": {
+            "id": "Al-Ma'idah",
+            "en": "Al-Maaida"
+        },
+        "verses": "120",
+        "arab": "المائدة",
+        "translation": {
+            "id": "Hidangan",
+            "en": "The Table"
+        }
+    },
+    {
+        "id": "6",
+        "name": {
+            "id": "Al-An'am",
+            "en": "Al-An'aam"
+        },
+        "verses": "165",
+        "arab": "الأنعام",
+        "translation": {
+            "id": "Binatang Ternak",
+            "en": "The Cattle"
+        }
+    },
+    {
+        "id": "7",
+        "name": {
+            "id": "Al-A'raf",
+            "en": "Al-A'raaf"
+        },
+        "verses": "206",
+        "arab": "الأعراف",
+        "translation": {
+            "id": "Tempat Tertinggi",
+            "en": "The Heights"
+        }
+    },
+    {
+        "id": "8",
+        "name": {
+            "id": "Al-Anfal",
+            "en": "Al-Anfaal"
+        },
+        "verses": "75",
+        "arab": "الأنفال",
+        "translation": {
+            "id": "Rampasan Perang",
+            "en": "The Spoils of War"
+        }
+    },
+    {
+        "id": "9",
+        "name": {
+            "id": "At-Taubah",
+            "en": "At-Tawba"
+        },
+        "verses": "129",
+        "arab": "التوبة",
+        "translation": {
+            "id": "Pengampunan",
+            "en": "The Repentance"
+        }
+    },
+    {
+        "id": "10",
+        "name": {
+            "id": "Yunus",
+            "en": "Yunus"
+        },
+        "verses": "109",
+        "arab": "يونس",
+        "translation": {
+            "id": "Yunus",
+            "en": "Jonas"
+        }
+    },
+    {
+        "id": "11",
+        "name": {
+            "id": "Hud",
+            "en": "Hud"
+        },
+        "verses": "123",
+        "arab": "هود",
+        "translation": {
+            "id": "Hud",
+            "en": "Hud"
+        }
+    },
+    {
+        "id": "12",
+        "name": {
+            "id": "Yusuf",
+            "en": "Yusuf"
+        },
+        "verses": "111",
+        "arab": "يوسف",
+        "translation": {
+            "id": "Yusuf",
+            "en": "Joseph"
+        }
+    },
+    {
+        "id": "13",
+        "name": {
+            "id": "Ar-Ra'd",
+            "en": "Ar-Ra'd"
+        },
+        "verses": "43",
+        "arab": "الرعد",
+        "translation": {
+            "id": "Guruh",
+            "en": "The Thunder"
+        }
+    },
+    {
+        "id": "14",
+        "name": {
+            "id": "Ibrahim",
+            "en": "Ibrahim"
+        },
+        "verses": "52",
+        "arab": "ابراهيم",
+        "translation": {
+            "id": "Ibrahim",
+            "en": "Abraham"
+        }
+    },
+    {
+        "id": "15",
+        "name": {
+            "id": "Al-Hijr",
+            "en": "Al-Hijr"
+        },
+        "verses": "99",
+        "arab": "الحجر",
+        "translation": {
+            "id": "Hijr",
+            "en": "The Rock"
+        }
+    },
+    {
+        "id": "16",
+        "name": {
+            "id": "An-Nahl",
+            "en": "An-Nahl"
+        },
+        "verses": "128",
+        "arab": "النحل",
+        "translation": {
+            "id": "Lebah",
+            "en": "The Bee"
+        }
+    },
+    {
+        "id": "17",
+        "name": {
+            "id": "Al-Isra'",
+            "en": "Al-Israa"
+        },
+        "verses": "111",
+        "arab": "الإسراء",
+        "translation": {
+            "id": "Memperjalankan Malam Hari",
+            "en": "The Night Journey"
+        }
+    },
+    {
+        "id": "18",
+        "name": {
+            "id": "Al-Kahf",
+            "en": "Al-Kahf"
+        },
+        "verses": "110",
+        "arab": "الكهف",
+        "translation": {
+            "id": "Goa",
+            "en": "The Cave"
+        }
+    },
+    {
+        "id": "19",
+        "name": {
+            "id": "Maryam",
+            "en": "Maryam"
+        },
+        "verses": "98",
+        "arab": "مريم",
+        "translation": {
+            "id": "Maryam",
+            "en": "Mary"
+        }
+    },
+    {
+        "id": "20",
+        "name": {
+            "id": "Taha",
+            "en": "Taa-Haa"
+        },
+        "verses": "135",
+        "arab": "طه",
+        "translation": {
+            "id": "Taha",
+            "en": "Taa-Haa"
+        }
+    },
+    {
+        "id": "21",
+        "name": {
+            "id": "Al-Anbiya'",
+            "en": "Al-Anbiyaa"
+        },
+        "verses": "112",
+        "arab": "الأنبياء",
+        "translation": {
+            "id": "Para Nabi",
+            "en": "The Prophets"
+        }
+    },
+    {
+        "id": "22",
+        "name": {
+            "id": "Al-Hajj",
+            "en": "Al-Hajj"
+        },
+        "verses": "78",
+        "arab": "الحج",
+        "translation": {
+            "id": "Haji",
+            "en": "The Pilgrimage"
+        }
+    },
+    {
+        "id": "23",
+        "name": {
+            "id": "Al-Mu'minun",
+            "en": "Al-Muminoon"
+        },
+        "verses": "118",
+        "arab": "المؤمنون",
+        "translation": {
+            "id": "Orang-Orang Mukmin",
+            "en": "The Believers"
+        }
+    },
+    {
+        "id": "24",
+        "name": {
+            "id": "An-Nur",
+            "en": "An-Noor"
+        },
+        "verses": "64",
+        "arab": "النور",
+        "translation": {
+            "id": "Cahaya",
+            "en": "The Light"
+        }
+    },
+    {
+        "id": "25",
+        "name": {
+            "id": "Al-Furqan",
+            "en": "Al-Furqaan"
+        },
+        "verses": "77",
+        "arab": "الفرقان",
+        "translation": {
+            "id": "Pembeda",
+            "en": "The Criterion"
+        }
+    },
+    {
+        "id": "26",
+        "name": {
+            "id": "Asy-Syu'ara'",
+            "en": "Ash-Shu'araa"
+        },
+        "verses": "227",
+        "arab": "الشعراء",
+        "translation": {
+            "id": "Para Penyair",
+            "en": "The Poets"
+        }
+    },
+    {
+        "id": "27",
+        "name": {
+            "id": "An-Naml",
+            "en": "An-Naml"
+        },
+        "verses": "93",
+        "arab": "النمل",
+        "translation": {
+            "id": "Semut-semut",
+            "en": "The Ant"
+        }
+    },
+    {
+        "id": "28",
+        "name": {
+            "id": "Al-Qasas",
+            "en": "Al-Qasas"
+        },
+        "verses": "88",
+        "arab": "القصص",
+        "translation": {
+            "id": "Kisah-Kisah",
+            "en": "The Stories"
+        }
+    },
+    {
+        "id": "29",
+        "name": {
+            "id": "Al-'Ankabut",
+            "en": "Al-Ankaboot"
+        },
+        "verses": "69",
+        "arab": "العنكبوت",
+        "translation": {
+            "id": "Laba-Laba",
+            "en": "The Spider"
+        }
+    },
+    {
+        "id": "30",
+        "name": {
+            "id": "Ar-Rum",
+            "en": "Ar-Room"
+        },
+        "verses": "60",
+        "arab": "الروم",
+        "translation": {
+            "id": "Romawi",
+            "en": "The Romans"
+        }
+    },
+    {
+        "id": "31",
+        "name": {
+            "id": "Luqman",
+            "en": "Luqman"
+        },
+        "verses": "34",
+        "arab": "لقمان",
+        "translation": {
+            "id": "Luqman",
+            "en": "Luqman"
+        }
+    },
+    {
+        "id": "32",
+        "name": {
+            "id": "As-Sajdah",
+            "en": "As-Sajda"
+        },
+        "verses": "30",
+        "arab": "السجدة",
+        "translation": {
+            "id": "Sajdah",
+            "en": "The Prostration"
+        }
+    },
+    {
+        "id": "33",
+        "name": {
+            "id": "Al-Ahzab",
+            "en": "Al-Ahzaab"
+        },
+        "verses": "73",
+        "arab": "الأحزاب",
+        "translation": {
+            "id": "Golongan Yang Bersekutu",
+            "en": "The Clans"
+        }
+    },
+    {
+        "id": "34",
+        "name": {
+            "id": "Saba'",
+            "en": "Saba"
+        },
+        "verses": "54",
+        "arab": "سبإ",
+        "translation": {
+            "id": "Saba'",
+            "en": "Sheba"
+        }
+    },
+    {
+        "id": "35",
+        "name": {
+            "id": "Fatir",
+            "en": "Faatir"
+        },
+        "verses": "45",
+        "arab": "فاطر",
+        "translation": {
+            "id": "Maha Pencipta",
+            "en": "The Originator"
+        }
+    },
+    {
+        "id": "36",
+        "name": {
+            "id": "Yasin",
+            "en": "Yaseen"
+        },
+        "verses": "83",
+        "arab": "يس",
+        "translation": {
+            "id": "Yasin",
+            "en": "Yaseen"
+        }
+    },
+    {
+        "id": "37",
+        "name": {
+            "id": "As-Saffat",
+            "en": "As-Saaffaat"
+        },
+        "verses": "182",
+        "arab": "الصافات",
+        "translation": {
+            "id": "Barisan-Barisan",
+            "en": "Those drawn up in Ranks"
+        }
+    },
+    {
+        "id": "38",
+        "name": {
+            "id": "Sad",
+            "en": "Saad"
+        },
+        "verses": "88",
+        "arab": "ص",
+        "translation": {
+            "id": "Sad",
+            "en": "The letter Saad"
+        }
+    },
+    {
+        "id": "39",
+        "name": {
+            "id": "Az-Zumar",
+            "en": "Az-Zumar"
+        },
+        "verses": "75",
+        "arab": "الزمر",
+        "translation": {
+            "id": "Rombongan",
+            "en": "The Groups"
+        }
+    },
+    {
+        "id": "40",
+        "name": {
+            "id": "Gafir",
+            "en": "Ghafir"
+        },
+        "verses": "85",
+        "arab": "غافر",
+        "translation": {
+            "id": "Maha Pengampun",
+            "en": "The Forgiver"
+        }
+    },
+    {
+        "id": "41",
+        "name": {
+            "id": "Fussilat",
+            "en": "Fussilat"
+        },
+        "verses": "54",
+        "arab": "فصلت",
+        "translation": {
+            "id": "Yang Dijelaskan",
+            "en": "Explained in detail"
+        }
+    },
+    {
+        "id": "42",
+        "name": {
+            "id": "Asy-Syura",
+            "en": "Ash-Shura"
+        },
+        "verses": "53",
+        "arab": "الشورى",
+        "translation": {
+            "id": "Musyawarah",
+            "en": "Consultation"
+        }
+    },
+    {
+        "id": "43",
+        "name": {
+            "id": "Az-Zukhruf",
+            "en": "Az-Zukhruf"
+        },
+        "verses": "89",
+        "arab": "الزخرف",
+        "translation": {
+            "id": "Perhiasan",
+            "en": "Ornaments of gold"
+        }
+    },
+    {
+        "id": "44",
+        "name": {
+            "id": "Ad-Dukhan",
+            "en": "Ad-Dukhaan"
+        },
+        "verses": "59",
+        "arab": "الدخان",
+        "translation": {
+            "id": "Kabut",
+            "en": "The Smoke"
+        }
+    },
+    {
+        "id": "45",
+        "name": {
+            "id": "Al-Jasiyah",
+            "en": "Al-Jaathiya"
+        },
+        "verses": "37",
+        "arab": "الجاثية",
+        "translation": {
+            "id": "Berlutut",
+            "en": "Crouching"
+        }
+    },
+    {
+        "id": "46",
+        "name": {
+            "id": "Al-Ahqaf",
+            "en": "Al-Ahqaf"
+        },
+        "verses": "35",
+        "arab": "الأحقاف",
+        "translation": {
+            "id": "Bukit Pasir",
+            "en": "The Dunes"
+        }
+    },
+    {
+        "id": "47",
+        "name": {
+            "id": "Muhammad",
+            "en": "Muhammad"
+        },
+        "verses": "38",
+        "arab": "محمد",
+        "translation": {
+            "id": "Muhammad",
+            "en": "Muhammad"
+        }
+    },
+    {
+        "id": "48",
+        "name": {
+            "id": "Al-Fath",
+            "en": "Al-Fath"
+        },
+        "verses": "29",
+        "arab": "الفتح",
+        "translation": {
+            "id": "Kemenangan",
+            "en": "The Victory"
+        }
+    },
+    {
+        "id": "49",
+        "name": {
+            "id": "Al-Hujurat",
+            "en": "Al-Hujuraat"
+        },
+        "verses": "18",
+        "arab": "الحجرات",
+        "translation": {
+            "id": "Kamar-Kamar",
+            "en": "The Inner Apartments"
+        }
+    },
+    {
+        "id": "50",
+        "name": {
+            "id": "Qaf",
+            "en": "Qaaf"
+        },
+        "verses": "45",
+        "arab": "ق",
+        "translation": {
+            "id": "Qaf",
+            "en": "The letter Qaaf"
+        }
+    },
+    {
+        "id": "51",
+        "name": {
+            "id": "Az-Zariyat",
+            "en": "Adh-Dhaariyat"
+        },
+        "verses": "60",
+        "arab": "الذاريات",
+        "translation": {
+            "id": "Angin yang Menerbangkan",
+            "en": "The Winnowing Winds"
+        }
+    },
+    {
+        "id": "52",
+        "name": {
+            "id": "At-Tur",
+            "en": "At-Tur"
+        },
+        "verses": "49",
+        "arab": "الطور",
+        "translation": {
+            "id": "Bukit Tursina",
+            "en": "The Mount"
+        }
+    },
+    {
+        "id": "53",
+        "name": {
+            "id": "An-Najm",
+            "en": "An-Najm"
+        },
+        "verses": "62",
+        "arab": "النجم",
+        "translation": {
+            "id": "Bintang",
+            "en": "The Star"
+        }
+    },
+    {
+        "id": "54",
+        "name": {
+            "id": "Al-Qamar",
+            "en": "Al-Qamar"
+        },
+        "verses": "55",
+        "arab": "القمر",
+        "translation": {
+            "id": "Bulan",
+            "en": "The Moon"
+        }
+    },
+    {
+        "id": "55",
+        "name": {
+            "id": "Ar-Rahman",
+            "en": "Ar-Rahmaan"
+        },
+        "verses": "78",
+        "arab": "الرحمن",
+        "translation": {
+            "id": "Maha Pengasih",
+            "en": "The Beneficent"
+        }
+    },
+    {
+        "id": "56",
+        "name": {
+            "id": "Al-Waqi'ah",
+            "en": "Al-Waaqia"
+        },
+        "verses": "96",
+        "arab": "الواقعة",
+        "translation": {
+            "id": "Hari Kiamat",
+            "en": "The Inevitable"
+        }
+    },
+    {
+        "id": "57",
+        "name": {
+            "id": "Al-Hadid",
+            "en": "Al-Hadid"
+        },
+        "verses": "29",
+        "arab": "الحديد",
+        "translation": {
+            "id": "Besi",
+            "en": "The Iron"
+        }
+    },
+    {
+        "id": "58",
+        "name": {
+            "id": "Al-Mujadalah",
+            "en": "Al-Mujaadila"
+        },
+        "verses": "22",
+        "arab": "المجادلة",
+        "translation": {
+            "id": "Gugatan",
+            "en": "The Pleading Woman"
+        }
+    },
+    {
+        "id": "59",
+        "name": {
+            "id": "Al-Hasyr",
+            "en": "Al-Hashr"
+        },
+        "verses": "24",
+        "arab": "الحشر",
+        "translation": {
+            "id": "Pengusiran",
+            "en": "The Exile"
+        }
+    },
+    {
+        "id": "60",
+        "name": {
+            "id": "Al-Mumtahanah",
+            "en": "Al-Mumtahana"
+        },
+        "verses": "13",
+        "arab": "الممتحنة",
+        "translation": {
+            "id": "Wanita Yang Diuji",
+            "en": "She that is to be examined"
+        }
+    },
+    {
+        "id": "61",
+        "name": {
+            "id": "As-Saff",
+            "en": "As-Saff"
+        },
+        "verses": "14",
+        "arab": "الصف",
+        "translation": {
+            "id": "Barisan",
+            "en": "The Ranks"
+        }
+    },
+    {
+        "id": "62",
+        "name": {
+            "id": "Al-Jumu'ah",
+            "en": "Al-Jumu'a"
+        },
+        "verses": "11",
+        "arab": "الجمعة",
+        "translation": {
+            "id": "Jumat",
+            "en": "Friday"
+        }
+    },
+    {
+        "id": "63",
+        "name": {
+            "id": "Al-Munafiqun",
+            "en": "Al-Munaafiqoon"
+        },
+        "verses": "11",
+        "arab": "المنافقون",
+        "translation": {
+            "id": "Orang-Orang Munafik",
+            "en": "The Hypocrites"
+        }
+    },
+    {
+        "id": "64",
+        "name": {
+            "id": "At-Tagabun",
+            "en": "At-Taghaabun"
+        },
+        "verses": "18",
+        "arab": "التغابن",
+        "translation": {
+            "id": "Pengungkapan Kesalahan",
+            "en": "Mutual Disillusion"
+        }
+    },
+    {
+        "id": "65",
+        "name": {
+            "id": "At-Talaq",
+            "en": "At-Talaaq"
+        },
+        "verses": "12",
+        "arab": "الطلاق",
+        "translation": {
+            "id": "Talak",
+            "en": "Divorce"
+        }
+    },
+    {
+        "id": "66",
+        "name": {
+            "id": "At-Tahrim",
+            "en": "At-Tahrim"
+        },
+        "verses": "12",
+        "arab": "التحريم",
+        "translation": {
+            "id": "Pengharaman",
+            "en": "The Prohibition"
+        }
+    },
+    {
+        "id": "67",
+        "name": {
+            "id": "Al-Mulk",
+            "en": "Al-Mulk"
+        },
+        "verses": "30",
+        "arab": "الملك",
+        "translation": {
+            "id": "Kerajaan",
+            "en": "The Sovereignty"
+        }
+    },
+    {
+        "id": "68",
+        "name": {
+            "id": "Al-Qalam",
+            "en": "Al-Qalam"
+        },
+        "verses": "52",
+        "arab": "القلم",
+        "translation": {
+            "id": "Pena",
+            "en": "The Pen"
+        }
+    },
+    {
+        "id": "69",
+        "name": {
+            "id": "Al-Haqqah",
+            "en": "Al-Haaqqa"
+        },
+        "verses": "52",
+        "arab": "الحاقة",
+        "translation": {
+            "id": "Hari Kiamat",
+            "en": "The Reality"
+        }
+    },
+    {
+        "id": "70",
+        "name": {
+            "id": "Al-Ma'arij",
+            "en": "Al-Ma'aarij"
+        },
+        "verses": "44",
+        "arab": "المعارج",
+        "translation": {
+            "id": "Tempat Naik",
+            "en": "The Ascending Stairways"
+        }
+    },
+    {
+        "id": "71",
+        "name": {
+            "id": "Nuh",
+            "en": "Nooh"
+        },
+        "verses": "28",
+        "arab": "نوح",
+        "translation": {
+            "id": "Nuh",
+            "en": "Noah"
+        }
+    },
+    {
+        "id": "72",
+        "name": {
+            "id": "Al-Jinn",
+            "en": "Al-Jinn"
+        },
+        "verses": "28",
+        "arab": "الجن",
+        "translation": {
+            "id": "Jin",
+            "en": "The Jinn"
+        }
+    },
+    {
+        "id": "73",
+        "name": {
+            "id": "Al-Muzzammil",
+            "en": "Al-Muzzammil"
+        },
+        "verses": "20",
+        "arab": "المزمل",
+        "translation": {
+            "id": "Orang Yang Berselimut",
+            "en": "The Enshrouded One"
+        }
+    },
+    {
+        "id": "74",
+        "name": {
+            "id": "Al-Muddassir",
+            "en": "Al-Muddaththir"
+        },
+        "verses": "56",
+        "arab": "المدثر",
+        "translation": {
+            "id": "Orang Yang Berkemul",
+            "en": "The Cloaked One"
+        }
+    },
+    {
+        "id": "75",
+        "name": {
+            "id": "Al-Qiyamah",
+            "en": "Al-Qiyaama"
+        },
+        "verses": "40",
+        "arab": "القيامة",
+        "translation": {
+            "id": "Hari Kiamat",
+            "en": "The Resurrection"
+        }
+    },
+    {
+        "id": "76",
+        "name": {
+            "id": "Al-Insan",
+            "en": "Al-Insaan"
+        },
+        "verses": "31",
+        "arab": "الانسان",
+        "translation": {
+            "id": "Manusia",
+            "en": "Man"
+        }
+    },
+    {
+        "id": "77",
+        "name": {
+            "id": "Al-Mursalat",
+            "en": "Al-Mursalaat"
+        },
+        "verses": "50",
+        "arab": "المرسلات",
+        "translation": {
+            "id": "Malaikat Yang Diutus",
+            "en": "The Emissaries"
+        }
+    },
+    {
+        "id": "78",
+        "name": {
+            "id": "An-Naba'",
+            "en": "An-Naba"
+        },
+        "verses": "40",
+        "arab": "النبإ",
+        "translation": {
+            "id": "Berita Besar",
+            "en": "The Announcement"
+        }
+    },
+    {
+        "id": "79",
+        "name": {
+            "id": "An-Nazi'at",
+            "en": "An-Naazi'aat"
+        },
+        "verses": "46",
+        "arab": "النازعات",
+        "translation": {
+            "id": "Malaikat Yang Mencabut",
+            "en": "Those who drag forth"
+        }
+    },
+    {
+        "id": "80",
+        "name": {
+            "id": "'Abasa",
+            "en": "Abasa"
+        },
+        "verses": "42",
+        "arab": "عبس",
+        "translation": {
+            "id": "Bermuka Masam",
+            "en": "He frowned"
+        }
+    },
+    {
+        "id": "81",
+        "name": {
+            "id": "At-Takwir",
+            "en": "At-Takwir"
+        },
+        "verses": "29",
+        "arab": "التكوير",
+        "translation": {
+            "id": "Penggulungan",
+            "en": "The Overthrowing"
+        }
+    },
+    {
+        "id": "82",
+        "name": {
+            "id": "Al-Infitar",
+            "en": "Al-Infitaar"
+        },
+        "verses": "19",
+        "arab": "الإنفطار",
+        "translation": {
+            "id": "Terbelah",
+            "en": "The Cleaving"
+        }
+    },
+    {
+        "id": "83",
+        "name": {
+            "id": "Al-Mutaffifin",
+            "en": "Al-Mutaffifin"
+        },
+        "verses": "36",
+        "arab": "المطففين",
+        "translation": {
+            "id": "Orang-Orang Curang",
+            "en": "Defrauding"
+        }
+    },
+    {
+        "id": "84",
+        "name": {
+            "id": "Al-Insyiqaq",
+            "en": "Al-Inshiqaaq"
+        },
+        "verses": "25",
+        "arab": "الإنشقاق",
+        "translation": {
+            "id": "Terbelah",
+            "en": "The Splitting Open"
+        }
+    },
+    {
+        "id": "85",
+        "name": {
+            "id": "Al-Buruj",
+            "en": "Al-Burooj"
+        },
+        "verses": "22",
+        "arab": "البروج",
+        "translation": {
+            "id": "Gugusan Bintang",
+            "en": "The Constellations"
+        }
+    },
+    {
+        "id": "86",
+        "name": {
+            "id": "At-Tariq",
+            "en": "At-Taariq"
+        },
+        "verses": "17",
+        "arab": "الطارق",
+        "translation": {
+            "id": "Yang Datang Di Malam Hari",
+            "en": "The Morning Star"
+        }
+    },
+    {
+        "id": "87",
+        "name": {
+            "id": "Al-A'la",
+            "en": "Al-A'laa"
+        },
+        "verses": "19",
+        "arab": "الأعلى",
+        "translation": {
+            "id": "Maha Tinggi",
+            "en": "The Most High"
+        }
+    },
+    {
+        "id": "88",
+        "name": {
+            "id": "Al-Gasyiyah",
+            "en": "Al-Ghaashiya"
+        },
+        "verses": "26",
+        "arab": "الغاشية",
+        "translation": {
+            "id": "Hari Kiamat",
+            "en": "The Overwhelming"
+        }
+    },
+    {
+        "id": "89",
+        "name": {
+            "id": "Al-Fajr",
+            "en": "Al-Fajr"
+        },
+        "verses": "30",
+        "arab": "الفجر",
+        "translation": {
+            "id": "Fajar",
+            "en": "The Dawn"
+        }
+    },
+    {
+        "id": "90",
+        "name": {
+            "id": "Al-Balad",
+            "en": "Al-Balad"
+        },
+        "verses": "20",
+        "arab": "البلد",
+        "translation": {
+            "id": "Negeri",
+            "en": "The City"
+        }
+    },
+    {
+        "id": "91",
+        "name": {
+            "id": "Asy-Syams",
+            "en": "Ash-Shams"
+        },
+        "verses": "15",
+        "arab": "الشمس",
+        "translation": {
+            "id": "Matahari",
+            "en": "The Sun"
+        }
+    },
+    {
+        "id": "92",
+        "name": {
+            "id": "Al-Lail",
+            "en": "Al-Lail"
+        },
+        "verses": "21",
+        "arab": "الليل",
+        "translation": {
+            "id": "Malam",
+            "en": "The Night"
+        }
+    },
+    {
+        "id": "93",
+        "name": {
+            "id": "Ad-Duha",
+            "en": "Ad-Dhuhaa"
+        },
+        "verses": "11",
+        "arab": "الضحى",
+        "translation": {
+            "id": "Duha",
+            "en": "The Morning Hours"
+        }
+    },
+    {
+        "id": "94",
+        "name": {
+            "id": "Asy-Syarh",
+            "en": "Ash-Sharh"
+        },
+        "verses": "8",
+        "arab": "الشرح",
+        "translation": {
+            "id": "Lapang",
+            "en": "The Consolation"
+        }
+    },
+    {
+        "id": "95",
+        "name": {
+            "id": "At-Tin",
+            "en": "At-Tin"
+        },
+        "verses": "8",
+        "arab": "التين",
+        "translation": {
+            "id": "Buah Tin",
+            "en": "The Fig"
+        }
+    },
+    {
+        "id": "96",
+        "name": {
+            "id": "Al-'Alaq",
+            "en": "Al-Alaq"
+        },
+        "verses": "19",
+        "arab": "العلق",
+        "translation": {
+            "id": "Segumpal Darah",
+            "en": "The Clot"
+        }
+    },
+    {
+        "id": "97",
+        "name": {
+            "id": "Al-Qadr",
+            "en": "Al-Qadr"
+        },
+        "verses": "5",
+        "arab": "القدر",
+        "translation": {
+            "id": "Kemuliaan",
+            "en": "The Power, Fate"
+        }
+    },
+    {
+        "id": "98",
+        "name": {
+            "id": "Al-Bayyinah",
+            "en": "Al-Bayyina"
+        },
+        "verses": "8",
+        "arab": "البينة",
+        "translation": {
+            "id": "Bukti Nyata",
+            "en": "The Evidence"
+        }
+    },
+    {
+        "id": "99",
+        "name": {
+            "id": "Az-Zalzalah",
+            "en": "Az-Zalzala"
+        },
+        "verses": "8",
+        "arab": "الزلزلة",
+        "translation": {
+            "id": "Guncangan",
+            "en": "The Earthquake"
+        }
+    },
+    {
+        "id": "100",
+        "name": {
+            "id": "Al-'Adiyat",
+            "en": "Al-Aadiyaat"
+        },
+        "verses": "11",
+        "arab": "العاديات",
+        "translation": {
+            "id": "Kuda Yang Berlari Kencang",
+            "en": "The Chargers"
+        }
+    },
+    {
+        "id": "101",
+        "name": {
+            "id": "Al-Qari'ah",
+            "en": "Al-Qaari'a"
+        },
+        "verses": "11",
+        "arab": "القارعة",
+        "translation": {
+            "id": "Hari Kiamat",
+            "en": "The Calamity"
+        }
+    },
+    {
+        "id": "102",
+        "name": {
+            "id": "At-Takasur",
+            "en": "At-Takaathur"
+        },
+        "verses": "8",
+        "arab": "التكاثر",
+        "translation": {
+            "id": "Bermegah-Megahan",
+            "en": "Competition"
+        }
+    },
+    {
+        "id": "103",
+        "name": {
+            "id": "Al-'Asr",
+            "en": "Al-Asr"
+        },
+        "verses": "3",
+        "arab": "العصر",
+        "translation": {
+            "id": "Asar",
+            "en": "The Declining Day, Epoch"
+        }
+    },
+    {
+        "id": "104",
+        "name": {
+            "id": "Al-Humazah",
+            "en": "Al-Humaza"
+        },
+        "verses": "9",
+        "arab": "الهمزة",
+        "translation": {
+            "id": "Pengumpat",
+            "en": "The Traducer"
+        }
+    },
+    {
+        "id": "105",
+        "name": {
+            "id": "Al-Fil",
+            "en": "Al-Fil"
+        },
+        "verses": "5",
+        "arab": "الفيل",
+        "translation": {
+            "id": "Gajah",
+            "en": "The Elephant"
+        }
+    },
+    {
+        "id": "106",
+        "name": {
+            "id": "Quraisy",
+            "en": "Quraish"
+        },
+        "verses": "4",
+        "arab": "قريش",
+        "translation": {
+            "id": "Quraisy",
+            "en": "Quraysh"
+        }
+    },
+    {
+        "id": "107",
+        "name": {
+            "id": "Al-Ma'un",
+            "en": "Al-Maa'un"
+        },
+        "verses": "7",
+        "arab": "الماعون",
+        "translation": {
+            "id": "Barang Yang Berguna",
+            "en": "Almsgiving"
+        }
+    },
+    {
+        "id": "108",
+        "name": {
+            "id": "Al-Kausar",
+            "en": "Al-Kawthar"
+        },
+        "verses": "3",
+        "arab": "الكوثر",
+        "translation": {
+            "id": "Pemberian Yang Banyak",
+            "en": "Abundance"
+        }
+    },
+    {
+        "id": "109",
+        "name": {
+            "id": "Al-Kafirun",
+            "en": "Al-Kaafiroon"
+        },
+        "verses": "6",
+        "arab": "الكافرون",
+        "translation": {
+            "id": "Orang-Orang kafir",
+            "en": "The Disbelievers"
+        }
+    },
+    {
+        "id": "110",
+        "name": {
+            "id": "An-Nasr",
+            "en": "An-Nasr"
+        },
+        "verses": "3",
+        "arab": "النصر",
+        "translation": {
+            "id": "Pertolongan",
+            "en": "Divine Support"
+        }
+    },
+    {
+        "id": "111",
+        "name": {
+            "id": "Al-Lahab",
+            "en": "Al-Masad"
+        },
+        "verses": "5",
+        "arab": "المسد",
+        "translation": {
+            "id": "Api Yang Bergejolak",
+            "en": "The Palm Fibre"
+        }
+    },
+    {
+        "id": "112",
+        "name": {
+            "id": "Al-Ikhlas",
+            "en": "Al-Ikhlaas"
+        },
+        "verses": "4",
+        "arab": "الإخلاص",
+        "translation": {
+            "id": "Ikhlas",
+            "en": "Sincerity"
+        }
+    },
+    {
+        "id": "113",
+        "name": {
+            "id": "Al-Falaq",
+            "en": "Al-Falaq"
+        },
+        "verses": "5",
+        "arab": "الفلق",
+        "translation": {
+            "id": "Subuh",
+            "en": "The Dawn"
+        }
+    },
+    {
+        "id": "114",
+        "name": {
+            "id": "An-Nas",
+            "en": "An-Naas"
+        },
+        "verses": "6",
+        "arab": "الناس",
+        "translation": {
+            "id": "Manusia",
+            "en": "Mankind"
+        }
+
+    }
+]

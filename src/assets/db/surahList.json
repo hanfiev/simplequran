@@ -1,0 +1,688 @@
+{
+    "surah": [
+        {
+            "id": 1,
+            "nameID": "Al-Fatihah",
+            "nameEN": "Al-Faatiha",
+            "verses": 7
+        },
+        {
+            "id": 2,
+            "nameID": "Al-Baqarah",
+            "nameEN": "Al-Baqara",
+            "verses": 286
+        },
+        {
+            "id": 3,
+            "nameID": "Ali 'Imran",
+            "nameEN": "Aal-i-Imraan",
+            "verses": 200
+        },
+        {
+            "id": 4,
+            "nameID": "An-Nisa'",
+            "nameEN": "An-Nisaa",
+            "verses": 176
+        },
+        {
+            "id": 5,
+            "nameID": "Al-Ma'idah",
+            "nameEN": "Al-Maaida",
+            "verses": 120
+        },
+        {
+            "id": 6,
+            "nameID": "Al-An'am",
+            "nameEN": "Al-An'aam",
+            "verses": 165
+        },
+        {
+            "id": 7,
+            "nameID": "Al-A'raf",
+            "nameEN": "Al-A'raaf",
+            "verses": 206
+        },
+        {
+            "id": 8,
+            "nameID": "Al-Anfal",
+            "nameEN": "Al-Anfaal",
+            "verses": 75
+        },
+        {
+            "id": 9,
+            "nameID": "At-Taubah",
+            "nameEN": "At-Tawba",
+            "verses": 129
+        },
+        {
+            "id": 10,
+            "nameID": "Yunus",
+            "nameEN": "Yunus",
+            "verses": 109
+        },
+        {
+            "id": 11,
+            "nameID": "Hud",
+            "nameEN": "Hud",
+            "verses": 123
+        },
+        {
+            "id": 12,
+            "nameID": "Yusuf",
+            "nameEN": "Yusuf",
+            "verses": 111
+        },
+        {
+            "id": 13,
+            "nameID": "Ar-Ra'd",
+            "nameEN": "Ar-Ra'd",
+            "verses": 43
+        },
+        {
+            "id": 14,
+            "nameID": "Ibrahim",
+            "nameEN": "Ibrahim",
+            "verses": 52
+        },
+        {
+            "id": 15,
+            "nameID": "Al-Hijr",
+            "nameEN": "Al-Hijr",
+            "verses": 99
+        },
+        {
+            "id": 16,
+            "nameID": "An-Nahl",
+            "nameEN": "An-Nahl",
+            "verses": 128
+        },
+        {
+            "id": 17,
+            "nameID": "Al-Isra'",
+            "nameEN": "Al-Israa",
+            "verses": 111
+        },
+        {
+            "id": 18,
+            "nameID": "Al-Kahf",
+            "nameEN": "Al-Kahf",
+            "verses": 110
+        },
+        {
+            "id": 19,
+            "nameID": "Maryam",
+            "nameEN": "Maryam",
+            "verses": 98
+        },
+        {
+            "id": 20,
+            "nameID": "Taha",
+            "nameEN": "Taa-Haa",
+            "verses": 135
+        },
+        {
+            "id": 21,
+            "nameID": "Al-Anbiya'",
+            "nameEN": "Al-Anbiyaa",
+            "verses": 112
+        },
+        {
+            "id": 22,
+            "nameID": "Al-Hajj",
+            "nameEN": "Al-Hajj",
+            "verses": 78
+        },
+        {
+            "id": 23,
+            "nameID": "Al-Mu'minun",
+            "nameEN": "Al-Muminoon",
+            "verses": 118
+        },
+        {
+            "id": 24,
+            "nameID": "An-Nur",
+            "nameEN": "An-Noor",
+            "verses": 64
+        },
+        {
+            "id": 25,
+            "nameID": "Al-Furqan",
+            "nameEN": "Al-Furqaan",
+            "verses": 77
+        },
+        {
+            "id": 26,
+            "nameID": "Asy-Syu'ara'",
+            "nameEN": "Ash-Shu'araa",
+            "verses": 227
+        },
+        {
+            "id": 27,
+            "nameID": "An-Naml",
+            "nameEN": "An-Naml",
+            "verses": 93
+        },
+        {
+            "id": 28,
+            "nameID": "Al-Qasas",
+            "nameEN": "Al-Qasas",
+            "verses": 88
+        },
+        {
+            "id": 29,
+            "nameID": "Al-'Ankabut",
+            "nameEN": "Al-Ankaboot",
+            "verses": 69
+        },
+        {
+            "id": 30,
+            "nameID": "Ar-Rum",
+            "nameEN": "Ar-Room",
+            "verses": 60
+        },
+        {
+            "id": 31,
+            "nameID": "Luqman",
+            "nameEN": "Luqman",
+            "verses": 34
+        },
+        {
+            "id": 32,
+            "nameID": "As-Sajdah",
+            "nameEN": "As-Sajda",
+            "verses": 30
+        },
+        {
+            "id": 33,
+            "nameID": "Al-Ahzab",
+            "nameEN": "Al-Ahzaab",
+            "verses": 73
+        },
+        {
+            "id": 34,
+            "nameID": "Saba'",
+            "nameEN": "Saba",
+            "verses": 54
+        },
+        {
+            "id": 35,
+            "nameID": "Fatir",
+            "nameEN": "Faatir",
+            "verses": 45
+        },
+        {
+            "id": 36,
+            "nameID": "Yasin",
+            "nameEN": "Yaseen",
+            "verses": 83
+        },
+        {
+            "id": 37,
+            "nameID": "As-Saffat",
+            "nameEN": "As-Saaffaat",
+            "verses": 182
+        },
+        {
+            "id": 38,
+            "nameID": "Sad",
+            "nameEN": "Saad",
+            "verses": 88
+        },
+        {
+            "id": 39,
+            "nameID": "Az-Zumar",
+            "nameEN": "Az-Zumar",
+            "verses": 75
+        },
+        {
+            "id": 40,
+            "nameID": "Gafir",
+            "nameEN": "Ghafir",
+            "verses": 85
+        },
+        {
+            "id": 41,
+            "nameID": "Fussilat",
+            "nameEN": "Fussilat",
+            "verses": 54
+        },
+        {
+            "id": 42,
+            "nameID": "Asy-Syura",
+            "nameEN": "Ash-Shura",
+            "verses": 53
+        },
+        {
+            "id": 43,
+            "nameID": "Az-Zukhruf",
+            "nameEN": "Az-Zukhruf",
+            "verses": 89
+        },
+        {
+            "id": 44,
+            "nameID": "Ad-Dukhan",
+            "nameEN": "Ad-Dukhaan",
+            "verses": 59
+        },
+        {
+            "id": 45,
+            "nameID": "Al-Jasiyah",
+            "nameEN": "Al-Jaathiya",
+            "verses": 37
+        },
+        {
+            "id": 46,
+            "nameID": "Al-Ahqaf",
+            "nameEN": "Al-Ahqaf",
+            "verses": 35
+        },
+        {
+            "id": 47,
+            "nameID": "Muhammad",
+            "nameEN": "Muhammad",
+            "verses": 38
+        },
+        {
+            "id": 48,
+            "nameID": "Al-Fath",
+            "nameEN": "Al-Fath",
+            "verses": 29
+        },
+        {
+            "id": 49,
+            "nameID": "Al-Hujurat",
+            "nameEN": "Al-Hujuraat",
+            "verses": 18
+        },
+        {
+            "id": 50,
+            "nameID": "Qaf",
+            "nameEN": "Qaaf",
+            "verses": 45
+        },
+        {
+            "id": 51,
+            "nameID": "Az-Zariyat",
+            "nameEN": "Adh-Dhaariyat",
+            "verses": 60
+        },
+        {
+            "id": 52,
+            "nameID": "At-Tur",
+            "nameEN": "At-Tur",
+            "verses": 49
+        },
+        {
+            "id": 53,
+            "nameID": "An-Najm",
+            "nameEN": "An-Najm",
+            "verses": 62
+        },
+        {
+            "id": 54,
+            "nameID": "Al-Qamar",
+            "nameEN": "Al-Qamar",
+            "verses": 55
+        },
+        {
+            "id": 55,
+            "nameID": "Ar-Rahman",
+            "nameEN": "Ar-Rahmaan",
+            "verses": 78
+        },
+        {
+            "id": 56,
+            "nameID": "Al-Waqi'ah",
+            "nameEN": "Al-Waaqia",
+            "verses": 96
+        },
+        {
+            "id": 57,
+            "nameID": "Al-Hadid",
+            "nameEN": "Al-Hadid",
+            "verses": 29
+        },
+        {
+            "id": 58,
+            "nameID": "Al-Mujadalah",
+            "nameEN": "Al-Mujaadila",
+            "verses": 22
+        },
+        {
+            "id": 59,
+            "nameID": "Al-Hasyr",
+            "nameEN": "Al-Hashr",
+            "verses": 24
+        },
+        {
+            "id": 60,
+            "nameID": "Al-Mumtahanah",
+            "nameEN": "Al-Mumtahana",
+            "verses": 13
+        },
+        {
+            "id": 61,
+            "nameID": "As-Saff",
+            "nameEN": "As-Saff",
+            "verses": 14
+        },
+        {
+            "id": 62,
+            "nameID": "Al-Jumu'ah",
+            "nameEN": "Al-Jumu'a",
+            "verses": 11
+        },
+        {
+            "id": 63,
+            "nameID": "Al-Munafiqun",
+            "nameEN": "Al-Munaafiqoon",
+            "verses": 11
+        },
+        {
+            "id": 64,
+            "nameID": "At-Tagabun",
+            "nameEN": "At-Taghaabun",
+            "verses": 18
+        },
+        {
+            "id": 65,
+            "nameID": "At-Talaq",
+            "nameEN": "At-Talaaq",
+            "verses": 12
+        },
+        {
+            "id": 66,
+            "nameID": "At-Tahrim",
+            "nameEN": "At-Tahrim",
+            "verses": 12
+        },
+        {
+            "id": 67,
+            "nameID": "Al-Mulk",
+            "nameEN": "Al-Mulk",
+            "verses": 30
+        },
+        {
+            "id": 68,
+            "nameID": "Al-Qalam",
+            "nameEN": "Al-Qalam",
+            "verses": 52
+        },
+        {
+            "id": 69,
+            "nameID": "Al-Haqqah",
+            "nameEN": "Al-Haaqqa",
+            "verses": 52
+        },
+        {
+            "id": 70,
+            "nameID": "Al-Ma'arij",
+            "nameEN": "Al-Ma'aarij",
+            "verses": 44
+        },
+        {
+            "id": 71,
+            "nameID": "Nuh",
+            "nameEN": "Nooh",
+            "verses": 28
+        },
+        {
+            "id": 72,
+            "nameID": "Al-Jinn",
+            "nameEN": "Al-Jinn",
+            "verses": 28
+        },
+        {
+            "id": 73,
+            "nameID": "Al-Muzzammil",
+            "nameEN": "Al-Muzzammil",
+            "verses": 20
+        },
+        {
+            "id": 74,
+            "nameID": "Al-Muddassir",
+            "nameEN": "Al-Muddaththir",
+            "verses": 56
+        },
+        {
+            "id": 75,
+            "nameID": "Al-Qiyamah",
+            "nameEN": "Al-Qiyaama",
+            "verses": 40
+        },
+        {
+            "id": 76,
+            "nameID": "Al-Insan",
+            "nameEN": "Al-Insaan",
+            "verses": 31
+        },
+        {
+            "id": 77,
+            "nameID": "Al-Mursalat",
+            "nameEN": "Al-Mursalaat",
+            "verses": 50
+        },
+        {
+            "id": 78,
+            "nameID": "An-Naba'",
+            "nameEN": "An-Naba",
+            "verses": 40
+        },
+        {
+            "id": 79,
+            "nameID": "An-Nazi'at",
+            "nameEN": "An-Naazi'aat",
+            "verses": 46
+        },
+        {
+            "id": 80,
+            "nameID": "'Abasa",
+            "nameEN": "Abasa",
+            "verses": 42
+        },
+        {
+            "id": 81,
+            "nameID": "At-Takwir",
+            "nameEN": "At-Takwir",
+            "verses": 29
+        },
+        {
+            "id": 82,
+            "nameID": "Al-Infitar",
+            "nameEN": "Al-Infitaar",
+            "verses": 19
+        },
+        {
+            "id": 83,
+            "nameID": "Al-Mutaffifin",
+            "nameEN": "Al-Mutaffifin",
+            "verses": 36
+        },
+        {
+            "id": 84,
+            "nameID": "Al-Insyiqaq",
+            "nameEN": "Al-Inshiqaaq",
+            "verses": 25
+        },
+        {
+            "id": 85,
+            "nameID": "Al-Buruj",
+            "nameEN": "Al-Burooj",
+            "verses": 22
+        },
+        {
+            "id": 86,
+            "nameID": "At-Tariq",
+            "nameEN": "At-Taariq",
+            "verses": 17
+        },
+        {
+            "id": 87,
+            "nameID": "Al-A'la",
+            "nameEN": "Al-A'laa",
+            "verses": 19
+        },
+        {
+            "id": 88,
+            "nameID": "Al-Gasyiyah",
+            "nameEN": "Al-Ghaashiya",
+            "verses": 26
+        },
+        {
+            "id": 89,
+            "nameID": "Al-Fajr",
+            "nameEN": "Al-Fajr",
+            "verses": 30
+        },
+        {
+            "id": 90,
+            "nameID": "Al-Balad",
+            "nameEN": "Al-Balad",
+            "verses": 20
+        },
+        {
+            "id": 91,
+            "nameID": "Asy-Syams",
+            "nameEN": "Ash-Shams",
+            "verses": 15
+        },
+        {
+            "id": 92,
+            "nameID": "Al-Lail",
+            "nameEN": "Al-Lail",
+            "verses": 21
+        },
+        {
+            "id": 93,
+            "nameID": "Ad-Duha",
+            "nameEN": "Ad-Dhuhaa",
+            "verses": 11
+        },
+        {
+            "id": 94,
+            "nameID": "Asy-Syarh",
+            "nameEN": "Ash-Sharh",
+            "verses": 8
+        },
+        {
+            "id": 95,
+            "nameID": "At-Tin",
+            "nameEN": "At-Tin",
+            "verses": 8
+        },
+        {
+            "id": 96,
+            "nameID": "Al-'Alaq",
+            "nameEN": "Al-Alaq",
+            "verses": 19
+        },
+        {
+            "id": 97,
+            "nameID": "Al-Qadr",
+            "nameEN": "Al-Qadr",
+            "verses": 5
+        },
+        {
+            "id": 98,
+            "nameID": "Al-Bayyinah",
+            "nameEN": "Al-Bayyina",
+            "verses": 8
+        },
+        {
+            "id": 99,
+            "nameID": "Az-Zalzalah",
+            "nameEN": "Az-Zalzala",
+            "verses": 8
+        },
+        {
+            "id": 100,
+            "nameID": "Al-'Adiyat",
+            "nameEN": "Al-Aadiyaat",
+            "verses": 11
+        },
+        {
+            "id": 101,
+            "nameID": "Al-Qari'ah",
+            "nameEN": "Al-Qaari'a",
+            "verses": 11
+        },
+        {
+            "id": 102,
+            "nameID": "At-Takasur",
+            "nameEN": "At-Takaathur",
+            "verses": 8
+        },
+        {
+            "id": 103,
+            "nameID": "Al-'Asr",
+            "nameEN": "Al-Asr",
+            "verses": 3
+        },
+        {
+            "id": 104,
+            "nameID": "Al-Humazah",
+            "nameEN": "Al-Humaza",
+            "verses": 9
+        },
+        {
+            "id": 105,
+            "nameID": "Al-Fil",
+            "nameEN": "Al-Fil",
+            "verses": 5
+        },
+        {
+            "id": 106,
+            "nameID": "Quraisy",
+            "nameEN": "Quraish",
+            "verses": 4
+        },
+        {
+            "id": 107,
+            "nameID": "Al-Ma'un",
+            "nameEN": "Al-Maa'un",
+            "verses": 7
+        },
+        {
+            "id": 108,
+            "nameID": "Al-Kausar",
+            "nameEN": "Al-Kawthar",
+            "verses": 3
+        },
+        {
+            "id": 109,
+            "nameID": "Al-Kafirun",
+            "nameEN": "Al-Kaafiroon",
+            "verses": 6
+        },
+        {
+            "id": 110,
+            "nameID": "An-Nasr",
+            "nameEN": "An-Nasr",
+            "verses": 3
+        },
+        {
+            "id": 111,
+            "nameID": "Al-Lahab",
+            "nameEN": "Al-Masad",
+            "verses": 5
+        },
+        {
+            "id": 112,
+            "nameID": "Al-Ikhlas",
+            "nameEN": "Al-Ikhlaas",
+            "verses": 4
+        },
+        {
+            "id": 113,
+            "nameID": "Al-Falaq",
+            "nameEN": "Al-Falaq",
+            "verses": 5
+        },
+        {
+            "id": 114,
+            "nameID": "An-Nas",
+            "nameEN": "An-Naas",
+            "verses": 6
+        }
+    ]
+}
