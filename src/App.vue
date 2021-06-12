@@ -96,7 +96,7 @@ export default {
       'verse': true,
       'transliterate': true,
       'translation': true,
-      'darkMode': false
+      'darkMode': true
     }
 
     const progressRef = ref(null)
@@ -198,6 +198,8 @@ body {
   box-sizing: border-box;
   width: 100vw;
   height: 100vh;
+  background: radial-gradient(122.99% 137.12% at 80.53% -33.26%, #0054849f 0%, rgba(5, 81, 124, 0) 58.16%);
+  background-color: #181920;
   /* border:solid 2px #fff */
 }
 
