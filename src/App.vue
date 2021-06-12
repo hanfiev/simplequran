@@ -1,5 +1,6 @@
 <template>
 <div v-if="settingsRef" id="container" :class="[settingsRef.darkMode ? 'dark' : 'light']">
+  <transition name="slide-fade">
   <div style="height:100%" class="section" v-if="viewSurahSelector && progressRef && settingsRef">
     <div style="height:50px; display: flex;justify-content:space-between; align-items:center">
       <div style="display:flex;align-items:center;justify-content:center">
@@ -32,6 +33,8 @@
     </div>
     <SurahSelector :progressRef=progressRef :settingsRef=settingsRef :surahList=surahList @selectSurah=toggleSelectSurah />
   </div>
+  </transition>
+  <transition name="slide-fade">
   <div style="height:100%" v-if="viewSettings && settingsRef">
     <div @click="toggleSettings" style="height: 50px; display:flex;align-items:center;justify-content:left">
       <div>
@@ -46,6 +49,8 @@
     </div>
     <Settings :settings=settingsRef />
   </div>
+  </transition>
+  <transition name="slide-fade">
   <div style="height:100%" v-if="viewPage && progressRef && settingsRef">
     <div style="height:50px; display: flex;justify-content:space-between; align-items:center">
       <div @click="toggleSelectSurah" style="display:flex;align-items:center;justify-content:center">
@@ -84,6 +89,7 @@
     </div>
     <Page :settingsRef=settingsRef :progressRef=progressRef :surahList=surahList style=" width:100%; height:80%; overflow:auto" />
   </div>
+  </transition>
 
 </div>
 </template>
@@ -270,5 +276,23 @@ body {
   color: #E1E3E5;
   background-color: #181920;
   transition: ease-in-out 500ms;
+}
+
+.slide-fade-enter-active {
+  transition: all .1s ease-out;
+}
+
+.slide-fade-leave-active {
+  transition: all 0 ease-out;
+}
+
+.slide-fade-enter-from{
+  transform: translateY(-30px);
+  opacity: 0;
+}
+.slide-fade-leave-to {
+  transform: translateY(30px);
+  opacity: 0;
+  /* -webkit-transform: translate3d(0,0,0) rotateY(-90deg);  */
 }
 </style>
