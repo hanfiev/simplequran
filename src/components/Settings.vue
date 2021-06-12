@@ -114,7 +114,7 @@ export default {
   font-weight: bold;
 }
 
-#settings{
+#settings {
   height: 100%;
   overflow: auto;
 }
