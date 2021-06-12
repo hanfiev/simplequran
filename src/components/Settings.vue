@@ -1,10 +1,10 @@
 <template>
-<div>
+<div style="height:90%">
 
   <div id="settings">
     <div class="settingsGroup" id="language">
       <div class="category">Language</div>
-      <div class="item" @click.prevent="langSwitch('en')">English</div>
+      <div class="item active" @click.prevent="langSwitch('en')">English</div>
       <div class="item" @click.prevent="langSwitch('id')">Indonesia</div>
     </div>
     <hr>
@@ -114,6 +114,11 @@ export default {
   font-weight: bold;
 }
 
+#settings{
+  height: 100%;
+  overflow: auto;
+}
+
 .category {
   text-transform: uppercase;
   font-size: 10pt;
@@ -138,8 +143,14 @@ export default {
 }
 
 .item {
-  padding: 10px 0px;
+  padding: 15px 15px;
+  margin: 10px 0px
+}
 
+.item.active {
+  background: radial-gradient(48.79% 182.95% at 49.86% 128.41%, rgba(44, 67, 80, 0.5) 0%, rgba(36, 37, 46, 0.19) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  border-radius: 7px;
 }
 
 :root {

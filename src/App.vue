@@ -6,7 +6,7 @@
     </div>
     <SurahSelector :progressRef=progressRef :settingsRef=settingsRef :surahList=surahList @selectSurah=toggleSelectSurah />
   </div>
-  <div v-if="viewSettings && settingsRef">
+  <div style="height:100%" v-if="viewSettings && settingsRef">
     <div @click="toggleSettings" style="height: 50px; display:flex;align-items:center;justify-content:left">
       <div>
         <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
