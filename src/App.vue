@@ -7,7 +7,17 @@
     <SurahSelector :progressRef=progressRef :settingsRef=settingsRef :surahList=surahList @selectSurah=toggleSelectSurah />
   </div>
   <div v-if="viewSettings && settingsRef">
-    <button @click="toggleSettings">back</button>
+    <div @click="toggleSettings" style="height: 50px; display:flex;align-items:center;justify-content:left">
+      <div>
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="18" cy="18" r="18" fill="#E4F1FF" fill-opacity="0.1" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M17.707 24.7069C17.5195 24.8944 17.2652 24.9997 17 24.9997C16.7349 24.9997 16.4806 24.8944 16.293 24.7069L10.293 18.7069C10.1056 18.5194 10.0002 18.2651 10.0002 17.9999C10.0002 17.7348 10.1056 17.4804 10.293 17.2929L16.293 11.2929C16.4816 11.1108 16.7342 11.01 16.9964 11.0122C17.2586 11.0145 17.5094 11.1197 17.6948 11.3051C17.8803 11.4905 17.9854 11.7413 17.9877 12.0035C17.99 12.2657 17.8892 12.5183 17.707 12.7069L13.414 16.9999H25C25.2652 16.9999 25.5196 17.1053 25.7071 17.2928C25.8947 17.4803 26 17.7347 26 17.9999C26 18.2651 25.8947 18.5195 25.7071 18.707C25.5196 18.8946 25.2652 18.9999 25 18.9999H13.414L17.707 23.2929C17.8945 23.4804 17.9998 23.7348 17.9998 23.9999C17.9998 24.2651 17.8945 24.5194 17.707 24.7069Z" fill="white" />
+        </svg>
+      </div>
+      <div style="margin:10px; font-weight:bold">
+        Settings
+      </div>
+    </div>
     <Settings :settings=settingsRef />
   </div>
   <div style="height:100%" v-if="viewPage && progressRef && settingsRef">
