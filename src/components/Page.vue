@@ -45,6 +45,9 @@
     </div>
 
   </div>
+  <div v-else>
+      <loading />
+  </div>
 </div>
 </template>
 
@@ -54,9 +57,13 @@ import {
 } from '@vue/reactivity'
 import getQuran from '../composables/getQuran'
 import Localbase from 'localbase'
+import Loading from './Loading.vue'
+
 
 export default {
+  name: 'Page',
   props: ['progressRef', 'settingsRef', 'surahList'],
+  components: {Loading},
 
   setup(props) {
     const {

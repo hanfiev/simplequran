@@ -109,13 +109,13 @@ export default {
   components: {
     Settings,
     SurahSelector,
-    Page
+    Page,
+    
   },
   setup() {
     var viewSettings = ref(false);
     var viewSurahSelector = ref(false);
     var viewPage = ref(true)
-
     var lang = ref('en')
 
     const toggleSettings = () => {
