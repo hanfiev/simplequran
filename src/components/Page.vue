@@ -22,7 +22,8 @@
     </div>
 
     <br>
-    <div class="gradient"></div>
+    <!-- <div class="gradient"></div> -->
+
 
     <div id="pagination">
       <div @click.prevent="decrement">
@@ -142,10 +143,11 @@ export default {
   justify-content: space-between;
   /* background-color: blue; */
   margin: auto;
-  width: 90%;
   position: absolute;
   /* padding: 35px 10px; */
   bottom: 5%;
+  left: 5%;
+  right: 5%;
 }
 
 .gradient {
